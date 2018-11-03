@@ -862,5 +862,12 @@
     "erc20": true,
     "symbol": "STAR",
     "decimals": 18
+  },
+  "0xfB48E0DEa837f9438309a7e9F0cFe7EE3353A84e": {
+    "name": "Africahead Ipparts",
+    "logo": "AfricaheadDonkerblouNaLinks.png",
+    "erc20": true,
+    "symbol": "AFA",
+    "decimals": 2
   }
 }
